@@ -47,4 +47,5 @@ While building my final-year pharmacy ERP capstone (*MediStock*), I saw firsthan
 ## 📫 Connect With Me
 * **GitHub:** [@SakshiShrivastav12](https://github.com)
 * **E-mail Id:** [shrivastavsakshi57@gmail.com](https://gmail.com)
+* **Linked IN:** [SakshiShrivastav](www.linkedin.com/in/sakshi-shrivastav-182409273)
 * **Location:** Mumbai, Maharashtra, India
